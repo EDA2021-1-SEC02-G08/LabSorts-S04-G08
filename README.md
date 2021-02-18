@@ -1,3 +1,8 @@
+- Andrés Felipe Melgarejo Sarmiento / a.melgarejo@uniandes.edu.co / 202012655
+- Andrés Serrano Conti / a.serranoc@uniandes.edu.co / 201731766
+- Cesar David Quiros Sierra / cd.quiros@uniandes.edu.co / 201711029
+
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
